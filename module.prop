@@ -1,0 +1,9 @@
+id=iOS_KBs
+name=iOS Keyboard Sound
+version=1.0.0
+versionCode=100
+author=dazuii
+description=iOS Keyboard Sounds for Magisk, KernelSU, KernelSU Next & APatch
+updateJson=https://raw.githubusercontent.com/dazuii/iOS_Keyboard-Sounds/main/update_metada/update.json
+te_metada/update.json
+metada/update.json
